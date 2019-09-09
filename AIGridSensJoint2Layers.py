@@ -5,19 +5,7 @@ Created on Tue Aug 27 09:47:26 2019
 @author: makara01
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 29 12:41:39 2016
 
-@author: makara01
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 22 13:01:14 2016
-
-@author: makara01
-"""
 from pypower.api import ppoption, runpf, makeYbus
 from pypower.ext2int import ext2int
 import time as t
